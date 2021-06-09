@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la 11-lists ../ /boot
+ls -la ../0x00-shell_basics ../ /boot
