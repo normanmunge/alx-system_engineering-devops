@@ -8,3 +8,4 @@ This repository contains directories that show some basic Linux Commands used in
 *List **0x01-shell_permissions** directory - contains some tasks that adds users and groups and gives them permissions
 
 *  There are definitely more to commands - go do your research :-) *
+# shell I/O Redirections
