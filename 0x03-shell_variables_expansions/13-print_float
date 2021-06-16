@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM | xargs printf "%.2f"
+echo $NUM | xargs -n 1 printf "%.2f\n"
