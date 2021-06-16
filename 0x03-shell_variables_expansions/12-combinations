@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr -d oo | sort | uniq
+echo {a..z}{a..z}$'\n' | tr -d oo | sort | uniq
